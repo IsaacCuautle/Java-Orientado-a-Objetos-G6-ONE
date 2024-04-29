@@ -1,0 +1,29 @@
+[
+  {
+    "Nombre": "Tron",
+    "FechaLanzamiento": 1982,
+    "DuracionMinutros": 96,
+    "IncluidaPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluacion": 0,
+    "Informacion": ""
+  },
+  {
+    "Nombre": "TRON: Legacy",
+    "FechaLanzamiento": 2010,
+    "DuracionMinutros": 125,
+    "IncluidaPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluacion": 0,
+    "Informacion": ""
+  },
+  {
+    "Nombre": "Interstellar",
+    "FechaLanzamiento": 2014,
+    "DuracionMinutros": 169,
+    "IncluidaPlan": false,
+    "SumaEvaluaciones": 0.0,
+    "TotalEvaluacion": 0,
+    "Informacion": ""
+  }
+]
